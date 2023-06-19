@@ -5,3 +5,4 @@ This repos aims to gather all my boilerplates to use when you create a new proje
 there is one branch per stack, for the moment i've created:
 
 - MERN STACK
+- Nest React
