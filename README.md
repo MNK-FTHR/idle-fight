@@ -1,7 +1,7 @@
-### MY BASICS BOILERPLATES
+### NODE API TS MONGODB BOILER PLATE
 
-This repos aims to gather all my boilerplates to use when you create a new project to be faster and skip the boring phase.
+includes:
 
-there is one branch per stack, for the moment i've created:
-
-- MERN STACK
+- login/register
+- auth route
+- connection to front
